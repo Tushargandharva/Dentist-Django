@@ -1,5 +1,4 @@
-# Dentist-Django
-
+<script>
 <!DOCTYPE html>
 <html>
   <head>
@@ -112,7 +111,7 @@
       <br>
       <table id="data"></table>
 
-    <script>
+    
 	    
       const fileInput = document.getElementById("csvFile");
       const dataTable = document.getElementById("data");
