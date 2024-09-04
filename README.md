@@ -1,3 +1,1 @@
-This person has gained lot of experience and skills. He is having total experience of more than 4 years. He is experienced in working on automation using selenium java and expertise in manual testing as well. Well versed with tools like jira, postman, selenium, maven, java, postman, toad for oracle db. He has worked on banking projects based in US. He has worked in mnc’s tcs and infosys. Following agile methodology is the primary behaviour of working . He has also helped in project completion meeting sprint goals and fulfilling requirements by customer. So he will be a useful resource to the company that will be very beneficial.
-
-He has done Bachelor of computer applications and currently masters of computer applications is in progress that will complete in 2025
+vjhfmk
